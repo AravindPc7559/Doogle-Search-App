@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Image Of The WebSite..
+![](img/img1.JPG)
+
+
+Doogle Search App is a clone of GOOGLE SEARCH . This app is developed with react-js and the styles(css) is done with TAILWIND CSS And also we use google search API from RAPID API.......
+
+
+[Link Of The Site](https://dooglesearch.netlify.app)
+
 ## Available Scripts
 
 In the project directory, you can run:
